@@ -17,7 +17,8 @@ Before getting started, ensure you have the following installed on your system:
 
 ## Install dependencies
 2. Run command in terminal
-  npm install
+   ```bash
+     npm install
 
 
 ## Configure the database:
@@ -25,4 +26,5 @@ Update your database connection settings in the database.js file located in the 
 
 ## Run the application:
 Run command in terminal
+```bash
  npm start
